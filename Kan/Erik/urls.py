@@ -24,4 +24,5 @@ urlpatterns = [
     path("group/",views.group, name = "group"),
     path("age/",views.age, name = "age"),
     path("common/",views.common, name = "common"),
+    path("",views.common, name = "common"),
 ]

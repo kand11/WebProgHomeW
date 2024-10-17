@@ -18,8 +18,8 @@
 1. Клонируйте проект с GitHub:
 
 ```bash
-git clone https://github.com/your_username/your_project_name.git
-cd your_project_name
+git clone https://github.com/kand11/WebProgHomeW.git
+cd WebProgHomeW
 ```
 2. Примените миграции:
 ```bash
